@@ -1,4 +1,4 @@
-# BricksBreaker
+# tilt-brick-breaker
 > 프로젝트 기간 : 2019년 05월 23일 ~ 2019년 06월 13일 <br>
 프로젝트 참여 : 김태림, 최유나, 최주원, 황유림 <br>
 
